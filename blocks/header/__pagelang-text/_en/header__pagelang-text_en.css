@@ -1,0 +1,8 @@
+.header__pagelang-text_en {
+  text-decoration: none;
+  margin: 0;
+}
+
+.header__pagelang-text_en:hover {
+  text-decoration: underline;
+}

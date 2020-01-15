@@ -1,0 +1,14 @@
+@import url(./__places/additional__places.css);
+@import url(./__subtitle/additional__subtitle.css);
+@import url(./__title/additional__title.css);
+@import url(./__item/additional__item.css);
+@import url(./__heading/additional__heading.css);
+@import url(./__text/additional__text.css);
+
+.additional {
+  margin-top: 102px;
+  max-width: 92.5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

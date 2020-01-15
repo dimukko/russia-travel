@@ -1,0 +1,11 @@
+@import url(./_mod/comments__image_hafizov.css);
+@import url(./_mod/comments__image_lyagushkin.css);
+@import url(./_mod/comments__image_maksimishin.css);
+
+.comments__image {
+  background-size: contain;
+  width: 97px;
+  height: 97px;
+  border-radius: 50px;
+  border-color: green;
+}

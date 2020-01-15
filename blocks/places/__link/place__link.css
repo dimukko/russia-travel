@@ -1,0 +1,9 @@
+.place__link {
+  align-self: end;
+}
+
+@media screen and (max-width: 600px) {
+  .place__link {
+    display: none;
+  }
+}

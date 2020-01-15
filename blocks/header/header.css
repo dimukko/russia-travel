@@ -1,0 +1,16 @@
+@import url(./__logo/header__logo.css);
+@import url(./__pagelang/header__pagelang.css);
+@import url(./__pagelang-text/header__pagelang-text.css);
+
+.header {
+  display: flex;
+  width: 92.5%;
+  justify-content: space-between;
+  margin: 2rem auto 0rem;
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    width: 90%;
+  }
+}

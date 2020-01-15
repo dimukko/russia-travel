@@ -1,0 +1,11 @@
+.place__pic {
+  width: 100%;
+  border-radius: 5px;
+  object-fit: contain;
+}
+
+@media screen and (min-width: 1024px) {
+  .place__pic {
+    max-height: 100%;
+  }
+}

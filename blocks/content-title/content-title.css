@@ -1,0 +1,20 @@
+.content-title {
+  font-weight: 900;
+  font-size: 72px;
+  color: white;
+}
+
+@media screen and (max-width: 768px) {
+  .content-title {
+    font-size: 42px;
+    line-height: 46px;
+  }
+}
+
+@media screen and (max-width: 525px) {
+  .content-title {
+    font-size: 32px;
+    line-height: 35px;
+    width: 100%;
+  }
+}

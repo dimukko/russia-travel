@@ -1,0 +1,7 @@
+.emblem__items {
+  display: grid;
+  margin-top: 82px;
+  width: 100%;
+  grid-template-columns: repeat(5, 1fr);
+  grid-column-gap: 36px;
+}
